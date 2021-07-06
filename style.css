@@ -39,7 +39,7 @@ span{
   padding-right: 90px;
 }
 .one{
-  margin-left: 35px;
+  margin-left: 45px;
   margin-right: 30px;
   background-color: white;
   padding: 20px;
@@ -54,7 +54,7 @@ span{
   border-radius: 30px;
 }
 .three{
-  margin-right: 35px;
+  margin-right: 20px;
   background-color: white;
   padding: 20px;
   box-shadow: 1px 5px 5px 1px gray;
@@ -78,7 +78,7 @@ span{
 #nnn{
   color: gray;
 }
-.somapti{
+footer{
   color: white;
 }
 .somm{
