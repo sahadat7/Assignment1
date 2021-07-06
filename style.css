@@ -63,3 +63,25 @@ span{
 .pp{
   border-radius: 30px;
 }
+.last{
+  padding-left: 200px;
+  padding-right: 200px;
+  background-color: white;
+  box-shadow: 2px 5px 5px 2px gray;
+  margin-right: 40px;
+  margin-left: 40px;
+  border-radius: 30px;
+}
+.end{
+  text-align: center;
+}
+#nnn{
+  color: gray;
+}
+.somapti{
+  color: white;
+}
+.somm{
+  background-color: black;
+  padding: 15px;
+}
